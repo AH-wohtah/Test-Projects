@@ -1,0 +1,33 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+# gradle
+build
+.gradle
+
+# other
+eclipse
+run
+
+# Files from Forge MDK
+forge*changelog.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Local run configs you don't want shared
+run/
+run-data/
